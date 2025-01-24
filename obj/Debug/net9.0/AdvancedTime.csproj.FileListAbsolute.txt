@@ -12,3 +12,18 @@ C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\AdvancedTime\obj\
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\AdvancedTime\obj\Debug\net9.0\AdvancedTime.pdb
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\AdvancedTime\obj\Debug\net9.0\AdvancedTime.genruntimeconfig.cache
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\AdvancedTime\obj\Debug\net9.0\ref\AdvancedTime.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\bin\Debug\net9.0\AdvancedTime.exe
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\bin\Debug\net9.0\AdvancedTime.deps.json
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\bin\Debug\net9.0\AdvancedTime.runtimeconfig.json
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\bin\Debug\net9.0\AdvancedTime.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\bin\Debug\net9.0\AdvancedTime.pdb
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.AssemblyInfoInputs.cache
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.AssemblyInfo.cs
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.sourcelink.json
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\refint\AdvancedTime.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.pdb
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\AdvancedTime.genruntimeconfig.cache
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\AdvancedTime\obj\Debug\net9.0\ref\AdvancedTime.dll
